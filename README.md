@@ -3,9 +3,9 @@ My name is Daffi, but you can call me Api
 <!-- - 🔭 I'm currently a student at Catur Insan Cendekia University in Cirebon
 - 🌱 I’m currently learning flutter and python
 -->
-<a href="https://twitter.com/api45_" role="button" aria-pressed="true">Twitter</a>
+<a href="https://twitter.com/apidapi_" role="button" aria-pressed="true">Twitter</a>
 ||
-<a href="https://instagram.com/api45_" role="button" aria-pressed="true">Instagram</a>
+<a href="https://instagram.com/apidapi_" role="button" aria-pressed="true">Instagram</a>
 <!--
 **Dapi45/Dapi45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

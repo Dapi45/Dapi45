@@ -1,6 +1,6 @@
 ### Hi there 👋
-My name is Daffi Fadillah, but you can call me Dapi or Api. /n
-Informatics Engineering Graduates at Universitas Catur Insan Cendekia
+<p>My name is Daffi Fadillah, but you can call me Dapi or Api</p>
+<p>Informatics Engineering Graduates at Universitas Catur Insan Cendekia</p>
 <!-- - 🔭 I'm currently a student at Catur Insan Cendekia University in Cirebon
 - 🌱 I’m currently learning flutter and python
 -->
